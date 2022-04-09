@@ -15,7 +15,7 @@
 ### Installation :
 - Clone this repo
 ```
-git clone https://github.com/AmineSoukara/ForceSubscribeRobot.git
+git clone https://github.com/A13X-60/ForceSubscribeRobot
 ```
 - Change directory
 ```
